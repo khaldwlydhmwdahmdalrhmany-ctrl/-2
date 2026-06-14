@@ -19,8 +19,7 @@ import Footer from './components/Footer';
 import AdminHub from './components/AdminHub';
 import { QuoteRequest } from './types';
 import { MessageSquare, Phone, ShieldCheck, Heart, Sparkles, Sliders, Home, Building2, Coffee, Palmtree } from 'lucide-react';
-import projectCommercialRoImg from '@/assets/projects/images/project-commercial-ro.jpg';
-import tamaraLogo from '@/assets/payment-methods/tamara.svg';
+import projectCommercialRoImg from '@/assets/images/project-commercial-ro.jpeg';import tamaraLogo from '@/assets/payment-methods/tamara.svg';
 import tabbyLogo from '@/assets/payment-methods/tabby.svg';
 
 export default function App() {
