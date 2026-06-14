@@ -33,8 +33,7 @@ import projectV2Cooler from '@/assets/projects/videos/project-v2-cooler.mp4';
 import projectV3Cafe from '@/assets/projects/videos/project-v3-cafe.mp4';
 
 import projectHomeFilterImg from '@/assets/projects/images/project-home-filter.jpg';
-import projectCommercialRoImg from '@/assets/projects/images/project-commercial-ro.jpg';
-
+import projectCommercialRoImg from '@/assets/images/project-commercial-ro.jpeg';
 interface FieldProject {
   id: string;
   title: string;
